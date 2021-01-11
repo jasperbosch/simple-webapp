@@ -1,6 +1,5 @@
 dist/
-!app/favicon.ico
-app/
+!www/favicon.ico
 
 *~
 *.sw[mnpcod]
