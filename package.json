@@ -4,8 +4,8 @@
   "version": "0.0.1",
   "description": "Stencil App Starter",
   "scripts": {
-    "build": "",
-    "start": "node server.js",
+    "build": "node scripts/void.js",
+    "start": "node server.js"
   },
   "devDependencies": {},
   "license": "MIT",
