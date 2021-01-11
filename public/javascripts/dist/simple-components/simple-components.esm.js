@@ -1,0 +1,1 @@
+import{p as m,b as p}from "./p-42fe81fd.js";(()=>{const p=import.meta.url,e={};return""!==p&&(e.resourcesUrl=new URL(".",p).href),m(e)})().then((m=>p([["p-c40c177d",[[1,"simple-form",{formId:[1,"form-id"],action:[1]}]]],["p-bfb2e44f",[[1,"simple-input",{label:[1],name:[1]}]]]],m)));

@@ -1,0 +1,1 @@
+import{r as t,h as r}from "./p-42fe81fd.js";const s=class{constructor(r){t(this,r)}render(){return r("form",{action:this.action,id:this.formId},r("slot",null),r("button",{type:"submit"},"Submit form"))}};export{s as simple_form}

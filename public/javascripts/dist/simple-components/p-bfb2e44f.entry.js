@@ -1,0 +1,1 @@
+import{r as t,h as s}from "./p-42fe81fd.js";const i=class{constructor(s){t(this,s)}render(){return s("div",null,s("label",{htmlFor:this.name},this.label),s("input",{type:"text",name:this.name,id:this.name}))}};export{i as simple_input}
