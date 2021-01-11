@@ -5,16 +5,16 @@
   "description": "Stencil App Starter",
   "scripts": {
     "build": "stencil build",
-    "start": "stencil build --dev --watch --serve",
+    "start": "node server.js",
+    "start:dev": "stencil build --dev --watch --serve",
     "test": "stencil test --spec --e2e",
     "test.watch": "stencil test --spec --e2e --watchAll",
     "generate": "stencil generate"
   },
-  "devDependencies": {
-    "@stencil/core": "^2.0.0",
-    "@stencil/router": "^1.0.1"
-  },
+  "devDependencies": {},
   "license": "MIT",
   "dependencies": {
+    "express": "^4.17.1",
+    "simple-components": "file:simple-components-0.0.1.tgz"
   }
 }
